@@ -1,0 +1,5 @@
+# comments
+colorama
+pytest
+pytest-mock
+pytest-clarity
